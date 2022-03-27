@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 123ed870-bb6f-d80b-8262-7d7bac6cfaae
 resourcetype: Document
 title: young.pdf
 uid: 351d5255-46a3-3304-8bca-0b2f436ea256

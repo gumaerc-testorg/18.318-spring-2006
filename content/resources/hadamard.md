@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 123ed870-bb6f-d80b-8262-7d7bac6cfaae
 resourcetype: Document
 title: hadamard.pdf
 uid: f75a88e2-ffba-8f27-de52-aeebebfb7fe8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 123ed870-bb6f-d80b-8262-7d7bac6cfaae
 resourcetype: Document
 title: boolean.pdf
 uid: 7b0007bb-ce57-1b19-980f-4391487fc03e
