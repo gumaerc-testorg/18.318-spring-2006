@@ -6,6 +6,7 @@ file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/351d525546a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: young.pdf
 uid: 351d5255-46a3-3304-8bca-0b2f436ea256
 ---
 This resource includes information on Young's poset, Young diagram, Ferrers diagram, and rank-symmetric.
-

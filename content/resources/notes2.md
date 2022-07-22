@@ -6,6 +6,7 @@ file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/23b76f41bf5e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes2.pdf
 uid: 23b76f41-bf5e-26f7-2217-34e3499e73fb
 ---
 This resource includes information on Young's lattice, standard Young tableaux, Robinson-Schensted correspondence, and Hasse diagram.
-

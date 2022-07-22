@@ -5,6 +5,7 @@ file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/bd8a980991c6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw1.pdf
 uid: bd8a9809-91c6-eff3-2384-049f7361e231
 ---
 This resource includes 8 problem statements on complete tripartite graph.
-

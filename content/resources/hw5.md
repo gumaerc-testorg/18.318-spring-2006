@@ -5,6 +5,7 @@ file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/46726cc83fd0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw5.pdf
 uid: 46726cc8-3fd0-77ef-17ff-cf60f46b695e
 ---
 This resource includes 10 problem statements on r-differential lattices.
-

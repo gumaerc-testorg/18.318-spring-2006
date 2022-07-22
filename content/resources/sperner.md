@@ -5,6 +5,7 @@ file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/937f04fd1c43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sperner.pdf
 uid: 937f04fd-1c43-1ed4-b1fd-59e7a8b0d436
 ---
 This resource includes detailed information on Sperner's theorem.
-
