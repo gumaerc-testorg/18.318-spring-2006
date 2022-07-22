@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes prerequisites, requirements, and course
+  outline.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1b73feb0-a8b3-23f4-8901-0df144db36f8
 ---
@@ -46,7 +50,7 @@ _Selection of Topics from Linear Algebra_
   
 Odd Subsets with Even Intersections  
   
-Partitioning the Edges of the Complete Graph Kn into Complete Bipartite Subgraphs  
+Partitioning the Edges of the Complete Graph K{{< sub "n" >}} into Complete Bipartite Subgraphs  
   
 The Nonuniform Fisher Inequality  
   

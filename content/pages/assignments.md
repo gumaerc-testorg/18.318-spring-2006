@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments section inlcudes problem set files along with the difficulty
+  ratings.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: cf9b921e-c883-f0e6-991d-1073699a190a
 ---
@@ -29,7 +34,7 @@ Comments
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/hw1))
+Problem Set 1 ({{% resource_link bd8a9809-91c6-eff3-2384-049f7361e231 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in your best three problems.
@@ -38,7 +43,7 @@ Hand in your best three problems.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/hw2))
+Problem Set 2 ({{% resource_link 89f0cf21-f8a1-5f44-3ed4-d7ffb94703bb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in your best four problems.
@@ -47,7 +52,7 @@ Hand in your best four problems.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/hw3))
+Problem Set 3 ({{% resource_link 17d506d0-a9ff-7588-108a-8f7456c22ad4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in your best four problems.
@@ -56,7 +61,7 @@ Hand in your best four problems.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/hw4))
+Problem Set 4 ({{% resource_link 5c931a30-6593-2c8e-c04d-5a644fb6d920 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in Problem 4 (required of everyone) and your best two problems of those that remain (three problems in all).
@@ -65,7 +70,7 @@ Hand in Problem 4 (required of everyone) and your best two problems of those tha
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/hw5))
+Problem Set 5 ({{% resource_link 46726cc8-3fd0-77ef-17ff-cf60f46b695e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hand in your best three problems.
