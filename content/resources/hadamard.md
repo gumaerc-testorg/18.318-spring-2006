@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on hadamard matrix, and Galois theory.
 file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/f75a88e2ffba8f27de52aeebebfb7fe8_hadamard.pdf
+file_size: 136030
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
