@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes seven problem statements on simplicial complex.
-file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/17d506d0a9ff7588108a8f7456c22ad4_hw3.pdf
+file: /ol-ocw-studio-app/courses/18-318-topics-in-algebraic-combinatorics-spring-2006/17d506d0a9ff7588108a8f7456c22ad4_hw3.pdf
 file_size: 54733
 file_type: application/pdf
 learning_resource_types:
