@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on homomorphism, automorphism, Hasse
   diagram, and permutation matrix.
-file: /ol-ocw-studio-app/courses/18-318-topics-in-algebraic-combinatorics-spring-2006/7b0007bbce571b19980f4391487fc03e_boolean.pdf
+file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/7b0007bbce571b19980f4391487fc03e_boolean.pdf
 file_size: 148523
 file_type: application/pdf
 learning_resource_types:
