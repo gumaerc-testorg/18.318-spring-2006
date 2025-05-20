@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 16 problem statements based on Hadamard matrices.
-file: /ol-ocw-studio-app/courses/18-318-topics-in-algebraic-combinatorics-spring-2006/89f0cf21f8a15f443ed4d7ffb94703bb_hw2.pdf
+file: /courses/18-318-topics-in-algebraic-combinatorics-spring-2006/89f0cf21f8a15f443ed4d7ffb94703bb_hw2.pdf
 file_size: 67145
 file_type: application/pdf
 learning_resource_types:
